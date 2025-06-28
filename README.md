@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Machine Learning, Data Analysis, and Full Stack Web Development.
 - 🌱 I’m currently learning advanced ML techniques, cloud automation tools like SharePoint & Power Automate.
-- 💼 Currently interning at **EAI Automation**, working on **n8n-based automation workflows**.
+- 💼 Currently interning at **Gen AI Automation**, working on **n8n-based automation workflows**.
 - 💞️ I’m looking to collaborate on impactful ML/Data projects, web platforms, and automation workflows.
 - 📫 How to reach me: shubhmarwadi0504@gmail.com
 - 😄 Pronouns: He/Him
