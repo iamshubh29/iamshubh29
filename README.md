@@ -2,8 +2,9 @@
 
 - 👀 I’m interested in Machine Learning, Data Analysis, and Full Stack Web Development.
 - 🌱 I’m currently learning advanced ML techniques, cloud automation tools like SharePoint & Power Automate.
+- 💼 Currently interning at **EAI Automation**, working on **n8n-based automation workflows**.
 - 💞️ I’m looking to collaborate on impactful ML/Data projects, web platforms, and automation workflows.
-- 📫 How to reach me:  shubhmarwadi0504@gmail.com
+- 📫 How to reach me: shubhmarwadi0504@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning data into stories and events into impact!
 
@@ -11,13 +12,14 @@
 
 ### 🧠 About Me
 
-| Role | Organization |
-|------|--------------|
-| Intern | LTIMindtree (Mahape) |
-| ML Intern | IIT Indore (Remote) |
-| Campus Ambassador | GSSOC & RiseIn |
-| Executive Member | IIC & DSC Chapter RTU |
-| Organizer | Internship Fair '24 & '25, Startup School 4.0 |
+| Role                  | Organization                         |
+|-----------------------|--------------------------------------|
+| Intern                | LTIMindtree (Mahape)                 |
+| ML Intern             | IIT Indore (Remote)                  |
+| Gen AI Automation Intern     | Persistent Systems            |
+| Campus Ambassador     | GSSOC & RiseIn                       |
+| Executive Member      | IIC & DSC Chapter RTU                |
+| Organizer             | Internship Fair '24 & '25, Startup School 4.0 |
 
 ---
 
@@ -25,13 +27,11 @@
 
 - **Languages & Tools**: Python, SQL, JavaScript, React.js, Node.js, MongoDB
 - **ML & Data**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Automation**: SharePoint, Power Automate
-- **Others**: Git, GitHub, REST APIs, Postman
+- **Automation**: n8n, SharePoint, Power Automate
+- **DevOps & APIs**: Git, GitHub, REST APIs, Postman
+- **Soft Skills**: Public speaking, event organizing, technical mentoring
 
 ---
-
-
-
 
 <!---
 iamshubh29/iamshubh29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
