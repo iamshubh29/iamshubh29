@@ -14,9 +14,9 @@
 
 | Role                  | Organization                         |
 |-----------------------|--------------------------------------|
-| Intern                | LTIMindtree (Mahape)                 |
+| Gen AI Automation Intern | Persistent Systems                |
 | ML Intern             | IIT Indore (Remote)                  |
-| Gen AI Automation Intern     | Persistent Systems            |
+| Intern                | LTIMindtree (Mahape)           |
 | Campus Ambassador     | GSSOC & RiseIn                       |
 | Executive Member      | IIC & DSC Chapter RTU                |
 | Organizer             | Internship Fair '24 & '25, Startup School 4.0 |
